@@ -6,18 +6,26 @@
     <description>Recent content in Posts on Lò Sìng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 02 Jul 2019 12:41:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 16:40:00 +0800</lastBuildDate>
     
 	<atom:link href="https://giostarlc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo建站后的第一篇博文</title>
-      <link>https://giostarlc.github.io/posts/hugo%E5%BB%BA%E7%AB%99%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</link>
-      <pubDate>Tue, 02 Jul 2019 12:41:31 +0800</pubDate>
+      <title>搭博客</title>
+      <link>https://giostarlc.github.io/posts/%E6%90%AD%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 02 Jul 2019 16:40:00 +0800</pubDate>
       
-      <guid>https://giostarlc.github.io/posts/hugo%E5%BB%BA%E7%AB%99%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</guid>
-      <description>哈哈哈，难道没保存吗？</description>
+      <guid>https://giostarlc.github.io/posts/%E6%90%AD%E5%8D%9A%E5%AE%A2/</guid>
+      <description>开头先来几个Q&amp;amp;A  Q：为什么要搭博客？ A：为了给自己一个最正式的对外输出的窗口。
+Q：为什么起名 lò Sìing？ A：给博客起名字是个头疼的事儿，那索性就用自己名字的粤语拼音吧~
+Q：搭完博客，你能保证持续输出吗？ A：大概率是不能，不过，我们走着瞧。
+ 好了，接下来就简单描述一下我搭博客的过程吧！
+搭博客的过程 我采用的方案是：Github Page + Hugo。
+第一步是用Hugo搭建一个本地的博客，然后输出成静态网页（在./publi文件夹内）。
+第二步是注册Github Page。
+第三步在./publi文件夹内 git init 一下，再remote一下，完成这个文件夹和git源的远程连接，接着就push一下就可以了。
+之后就可以用，typora写作，流水线的po到这个博客上啦（怕不是，美好的幻想）。</description>
     </item>
     
   </channel>
