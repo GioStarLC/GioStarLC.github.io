@@ -3,48 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/portfolio/dera.1/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>https://giostarlc.github.io/posts/hugo%E5%BB%BA%E7%AB%99%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
+    <lastmod>2019-07-02T12:41:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/portfolio/dera/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>https://giostarlc.github.io/</loc>
+    <lastmod>2019-07-02T12:41:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://giostarlc.github.io/posts/</loc>
+    <lastmod>2019-07-02T12:41:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giostarlc.github.io/portfolio/dera.1/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/portfolio/1/</loc>
+    <loc>https://giostarlc.github.io/portfolio/dera/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://giostarlc.github.io/portfolio/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://giostarlc.github.io/portfolio/1/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/portfolio/laramod/</loc>
+    <loc>https://giostarlc.github.io/portfolio/laramod/</loc>
     <lastmod>2018-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://giostarlc.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://giostarlc.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://giostarlc.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lò Sìng</title>
+    <link>https://giostarlc.github.io/posts/</link>
+    <description>Recent content in Posts on Lò Sìng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 02 Jul 2019 12:41:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://giostarlc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo建站后的第一篇博文</title>
+      <link>https://giostarlc.github.io/posts/hugo%E5%BB%BA%E7%AB%99%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</link>
+      <pubDate>Tue, 02 Jul 2019 12:41:31 +0800</pubDate>
+      
+      <guid>https://giostarlc.github.io/posts/hugo%E5%BB%BA%E7%AB%99%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</guid>
+      <description>哈哈哈，难道没保存吗？</description>
+    </item>
+    
+  </channel>
+</rss>
