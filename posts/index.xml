@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Lò Sìng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 02 Jul 2019 16:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 11:17:59 +0800</lastBuildDate>
     
 	<atom:link href="https://giostarlc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>个人笔记系统的搭建</title>
+      <link>https://giostarlc.github.io/posts/private_note_system/</link>
+      <pubDate>Mon, 08 Jul 2019 11:17:59 +0800</pubDate>
+      
+      <guid>https://giostarlc.github.io/posts/private_note_system/</guid>
+      <description>笔记格式的选择 Markdown是一种轻量级标记语言，它拥有丰富的标记语法，足以生成一份漂亮的文档，同时，它又是基于纯文本格式，不会存在word版本兼容问题。这些优点让它成为了多设备笔记同步的不二之选。
+同步方式的选择 谈到同步，其实对于笔记系统，我们想要的功能其实就是：即时地同步Android上的笔记文件夹以及Mac上的笔记文件夹。用现有的百度云、腾讯云什么的来做这件事儿，似乎显得大材小用了。一个更轻量级的方案是：用github私有源来同步，即时、私密又安全。
+笔记软件的选择（Android端） 对于Android端笔记软件，我认为应该从以下几个角度考虑：
+ 有预览模式 支持文件夹浏览 支持图片
+  我想市面上的markdown软件基本都满足第一个条件，而满足后两个条件可以说是寥寥无几。我也是积极寻觅，最后发现一款叫“Epsilon”的App完全契合我的需求。
+笔记软件的选择（Mac端） Mac端就没什么好犹豫的了，选Typora，就对了！支持实时预览，支持文件夹管理，没有理由不选择它，不是么。
+笔记系统的搭建 基础步骤：
+ 建立一个github私有源； 通过ssh，分别将Android和Mac连接到github私有源 基础的笔记同步完成  优化步骤：
+ 分别在Mac和Android上编写一键同步的脚本 编写一个脚本，方便快速输入想法  更进一步的优化……
+（未完待续）</description>
+    </item>
     
     <item>
       <title>搭博客</title>
