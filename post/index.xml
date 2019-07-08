@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lò Sìng</title>
-    <link>https://giostarlc.github.io/posts/</link>
-    <description>Recent content in Posts on Lò Sìng</description>
+    <title>Posts on Lò Sìngの學習筆記</title>
+    <link>http://losing.xyz/post/</link>
+    <description>Recent content in Posts on Lò Sìngの學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://giostarlc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://losing.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>个人笔记系统的搭建</title>
-      <link>https://giostarlc.github.io/posts/private_note_system/</link>
+      <link>http://losing.xyz/post/2019_07_08_private_note_system/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://giostarlc.github.io/posts/private_note_system/</guid>
+      <guid>http://losing.xyz/post/2019_07_08_private_note_system/</guid>
       <description>笔记格式的选择 Markdown是一种轻量级标记语言，它拥有丰富的标记语法，足以生成一份漂亮的文档，同时，它又是基于纯文本格式，不会存在word版本兼容问题。这些优点让它成为了多设备笔记同步的不二之选。
 同步方式的选择 谈到同步，其实对于笔记系统，我们想要的功能其实就是：即时地同步Android上的笔记文件夹以及Mac上的笔记文件夹。用现有的百度云、腾讯云什么的来做这件事儿，似乎显得大材小用了。一个更轻量级的方案是：用github私有源来同步，即时、私密又安全。
 笔记软件的选择（Android端） 对于Android端笔记软件，我认为应该从以下几个角度考虑：
- 有预览模式 支持文件夹浏览 支持图片
-  我想市面上的markdown软件基本都满足第一个条件，而满足后两个条件可以说是寥寥无几。我也是积极寻觅，最后发现一款叫“Epsilon”的App完全契合我的需求。
+ 有预览模式 支持文件夹浏览 支持图片  我想市面上的markdown软件基本都满足第一个条件，而满足后两个条件可以说是寥寥无几。我也是积极寻觅，最后发现一款叫“Epsilon”的App完全契合我的需求。
 笔记软件的选择（Mac端） Mac端就没什么好犹豫的了，选Typora，就对了！支持实时预览，支持文件夹管理，没有理由不选择它，不是么。
 笔记系统的搭建 基础步骤：
  建立一个github私有源； 通过ssh，分别将Android和Mac连接到github私有源 基础的笔记同步完成  优化步骤：
@@ -31,10 +30,10 @@
     
     <item>
       <title>搭博客</title>
-      <link>https://giostarlc.github.io/posts/build_my_blog/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <link>http://losing.xyz/post/2019_06_30_build_my_blog/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://giostarlc.github.io/posts/build_my_blog/</guid>
+      <guid>http://losing.xyz/post/2019_06_30_build_my_blog/</guid>
       <description>开头先来几个Q&amp;amp;A  Q：为什么要搭博客？
 A：为了给自己一个最正式的对外输出的窗口。
 Q：为什么起名 lò Sìing？

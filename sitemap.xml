@@ -3,64 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://giostarlc.github.io/</loc>
+    <loc>http://losing.xyz/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giostarlc.github.io/posts/</loc>
+    <loc>http://losing.xyz/post/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giostarlc.github.io/posts/private_note_system/</loc>
+    <loc>http://losing.xyz/post/2019_07_08_private_note_system/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://giostarlc.github.io/posts/build_my_blog/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giostarlc.github.io/about/</loc>
+    <loc>http://losing.xyz/post/2019_06_30_build_my_blog/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://giostarlc.github.io/portfolio/dera.1/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giostarlc.github.io/portfolio/dera/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giostarlc.github.io/portfolio/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giostarlc.github.io/portfolio/1/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giostarlc.github.io/portfolio/laramod/</loc>
-    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giostarlc.github.io/categories/</loc>
+    <loc>http://losing.xyz/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giostarlc.github.io/tags/</loc>
+    <loc>http://losing.xyz/tags/</loc>
     <priority>0</priority>
   </url>
   

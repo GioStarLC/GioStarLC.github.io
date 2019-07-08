@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lò Sìng</title>
-    <link>https://giostarlc.github.io/</link>
-    <description>Recent content on Lò Sìng</description>
+    <title>Lò Sìngの學習筆記</title>
+    <link>http://losing.xyz/</link>
+    <description>Recent content on Lò Sìngの學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://giostarlc.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://losing.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>个人笔记系统的搭建</title>
-      <link>https://giostarlc.github.io/posts/private_note_system/</link>
+      <link>http://losing.xyz/post/2019_07_08_private_note_system/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://giostarlc.github.io/posts/private_note_system/</guid>
+      <guid>http://losing.xyz/post/2019_07_08_private_note_system/</guid>
       <description>笔记格式的选择 Markdown是一种轻量级标记语言，它拥有丰富的标记语法，足以生成一份漂亮的文档，同时，它又是基于纯文本格式，不会存在word版本兼容问题。这些优点让它成为了多设备笔记同步的不二之选。
 同步方式的选择 谈到同步，其实对于笔记系统，我们想要的功能其实就是：即时地同步Android上的笔记文件夹以及Mac上的笔记文件夹。用现有的百度云、腾讯云什么的来做这件事儿，似乎显得大材小用了。一个更轻量级的方案是：用github私有源来同步，即时、私密又安全。
 笔记软件的选择（Android端） 对于Android端笔记软件，我认为应该从以下几个角度考虑：
- 有预览模式 支持文件夹浏览 支持图片
-  我想市面上的markdown软件基本都满足第一个条件，而满足后两个条件可以说是寥寥无几。我也是积极寻觅，最后发现一款叫“Epsilon”的App完全契合我的需求。
+ 有预览模式 支持文件夹浏览 支持图片  我想市面上的markdown软件基本都满足第一个条件，而满足后两个条件可以说是寥寥无几。我也是积极寻觅，最后发现一款叫“Epsilon”的App完全契合我的需求。
 笔记软件的选择（Mac端） Mac端就没什么好犹豫的了，选Typora，就对了！支持实时预览，支持文件夹管理，没有理由不选择它，不是么。
 笔记系统的搭建 基础步骤：
  建立一个github私有源； 通过ssh，分别将Android和Mac连接到github私有源 基础的笔记同步完成  优化步骤：
@@ -31,10 +30,10 @@
     
     <item>
       <title>搭博客</title>
-      <link>https://giostarlc.github.io/posts/build_my_blog/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <link>http://losing.xyz/post/2019_06_30_build_my_blog/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://giostarlc.github.io/posts/build_my_blog/</guid>
+      <guid>http://losing.xyz/post/2019_06_30_build_my_blog/</guid>
       <description>开头先来几个Q&amp;amp;A  Q：为什么要搭博客？
 A：为了给自己一个最正式的对外输出的窗口。
 Q：为什么起名 lò Sìing？
@@ -47,52 +46,6 @@ A：大概率是不能，不过，我们走着瞧。
 第二步是注册Github Page。
 第三步在./public文件夹内 git init 一下，再remote一下，完成这个文件夹和git源的远程连接，接着就push一下就可以了。
 之后就可以用，typora写作，流水线的po到这个博客上啦（怕不是，美好的幻想）。</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://giostarlc.github.io/about/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://giostarlc.github.io/about/</guid>
-      <description> 搭一个博客，写一点东西。
- </description>
-    </item>
-    
-    <item>
-      <title>DERA</title>
-      <link>https://giostarlc.github.io/portfolio/dera.1/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://giostarlc.github.io/portfolio/dera.1/</guid>
-      <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
-    </item>
-    
-    <item>
-      <title>DERA</title>
-      <link>https://giostarlc.github.io/portfolio/dera/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://giostarlc.github.io/portfolio/dera/</guid>
-      <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
-    </item>
-    
-    <item>
-      <title>hyde-hyde</title>
-      <link>https://giostarlc.github.io/portfolio/1/</link>
-      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://giostarlc.github.io/portfolio/1/</guid>
-      <description>Hyde-hyde is a responsive Hugo theme inspired by @spf13&amp;rsquo;s Hyde and its variant Nate Finch&amp;rsquo;s blog. It was heavily restructured with modularised page layouts for easier maintenance and modification. Hyde-hyde offers awesome features such as nice colour tone, code highlighting, Font-Awesome 5&amp;rsquo;s sidebar icons), a cool portfolio page, more choices for commenting (e.g. GraphComment, Disqus).</description>
-    </item>
-    
-    <item>
-      <title>LaraMod</title>
-      <link>https://giostarlc.github.io/portfolio/laramod/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://giostarlc.github.io/portfolio/laramod/</guid>
-      <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel.</description>
     </item>
     
   </channel>
