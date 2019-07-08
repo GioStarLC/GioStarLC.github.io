@@ -1,0 +1,6 @@
+baseURL = "http://losing.xyz/"
+languageCode = "zh-cn"
+title = "Lò Sìngの學習筆記"
+theme = "basics"
+[params]
+    author = "GioStarLC"
