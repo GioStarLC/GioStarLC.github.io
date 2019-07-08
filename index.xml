@@ -6,7 +6,7 @@
     <description>Recent content on Lò Sìng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 08 Jul 2019 11:17:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://giostarlc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>个人笔记系统的搭建</title>
       <link>https://giostarlc.github.io/posts/private_note_system/</link>
-      <pubDate>Mon, 08 Jul 2019 11:17:59 +0800</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://giostarlc.github.io/posts/private_note_system/</guid>
       <description>笔记格式的选择 Markdown是一种轻量级标记语言，它拥有丰富的标记语法，足以生成一份漂亮的文档，同时，它又是基于纯文本格式，不会存在word版本兼容问题。这些优点让它成为了多设备笔记同步的不二之选。
@@ -31,10 +31,10 @@
     
     <item>
       <title>搭博客</title>
-      <link>https://giostarlc.github.io/posts/%E6%90%AD%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Tue, 02 Jul 2019 16:40:00 +0800</pubDate>
+      <link>https://giostarlc.github.io/posts/build_my_blog/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://giostarlc.github.io/posts/%E6%90%AD%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://giostarlc.github.io/posts/build_my_blog/</guid>
       <description>开头先来几个Q&amp;amp;A  Q：为什么要搭博客？
 A：为了给自己一个最正式的对外输出的窗口。
 Q：为什么起名 lò Sìing？
