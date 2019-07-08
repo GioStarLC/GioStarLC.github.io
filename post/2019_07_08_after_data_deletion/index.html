@@ -9,7 +9,7 @@
 
         <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono" rel="stylesheet"> 
 
-        <title>Posts</title>
+        <title>资料误删之后</title>
 
         <link rel="stylesheet" href="/css/stylesheet.css">
     </head>
@@ -42,44 +42,38 @@
         </section>
 
 
-<section>
-  <ul class="posts_listing">
+<div class="blog-post">
+  <h1>资料误删之后</h1>
+  <div class="blog-post-subheader">
+    <time>08 Jul 2019</time>
+  </div>
+  <div class="blog-post-content">
     
-    <li>
-      <div class="row" id="posts">
-        <div class="d-none d-sm-block col-sm-3 date-time-title">
-          <time>08 Jul 2019</time>
-        </div>
-        <div class="col-sm date-time-title post">
-          <a href="/post/2019_07_08_after_data_deletion/">资料误删之后</a>
-        </div>
-      </div>
-    </li>
-    
-    <li>
-      <div class="row" id="posts">
-        <div class="d-none d-sm-block col-sm-3 date-time-title">
-          <time>08 Jul 2019</time>
-        </div>
-        <div class="col-sm date-time-title post">
-          <a href="/post/2019_07_08_private_note_system/">个人笔记系统的搭建</a>
-        </div>
-      </div>
-    </li>
-    
-    <li>
-      <div class="row" id="posts">
-        <div class="d-none d-sm-block col-sm-3 date-time-title">
-          <time>30 Jun 2019</time>
-        </div>
-        <div class="col-sm date-time-title post">
-          <a href="/post/2019_06_30_build_my_blog/">搭博客</a>
-        </div>
-      </div>
-    </li>
-    
-  </ul>
-</section>
+
+<h2 id="起因">起因</h2>
+
+<p>本来今天正在鼓捣博客发布的自动化脚本，我想要用一个 rm 命令删除<code>blog/public</code>文件夹，我写的是 <code>cd ./public</code>，然后<code>rm -rf</code>，这条命令可真是坑死了我，我执行它的时候是在主目录（<code>~/</code>）下执行的，理所当然的，终端没有找到 <code>~/public</code>，当然它不会停止，接下来就是愉快的执行<code>rm -rf</code>命令了，于是，我的资料欢快地被删除了，包括但不限于：我的日记！所有日记！还有各种文档！以及各种我做的小东西！一切都似乎从头再来，关于我的过往的digital copy全没了！！！</p>
+
+<h2 id="恢复">恢复</h2>
+
+<p>我能恢复的，仅仅就只有我的博客，和我的私人笔记。以前所有没有备份的资料，全部都没有了！！！还是很心痛！</p>
+
+<h2 id="恢复过程">恢复过程</h2>
+
+<h4 id="git笔记系统">git笔记系统</h4>
+
+<p>git笔记系统很顺利地恢复了。</p>
+
+<h4 id="博客">博客</h4>
+
+<p>博客，由于我没有备份源码，我又只得重新走一遍 hugo 的流程（顺便给博客换了一个主题 X_X 算是苦中作乐吧），这之后把 源码备份在 src 分支，静态生成网页 备份在 master 分支。</p>
+
+<h2 id="总之">总之…</h2>
+
+<p>很蛋疼，资料以这样一种方式丢失，很难受，真的很难受。</p>
+
+  </div>
+</div>
 
       <footer>
         <hr>
