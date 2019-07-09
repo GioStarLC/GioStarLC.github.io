@@ -1,11 +1,12 @@
 #! /bin/bash
 
 cd ~/LcWorkbench/blog
-
+# 备份hugo源文件
 git add .
 git commit -m "gitPush successfully from Mac"
 git push origin src
 
+# 备份静态网页
 mv public public-temp
 hugo
 mv public-temp/.git public/
@@ -30,5 +31,4 @@ else
     git commit -m "${comment}"
     git push origin master
 fi
-sleep 5
-
+exit
