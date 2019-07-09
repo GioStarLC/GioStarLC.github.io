@@ -6,10 +6,26 @@
     <description>Recent content in Posts on Lò Sìngの學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://losing.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>展示一则旧博客</title>
+      <link>http://losing.xyz/post/2019_07_09_old_blog/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://losing.xyz/post/2019_07_09_old_blog/</guid>
+      <description>以下的内容是我整理资料时从旧的博客资料库里找到的，一晃两年半过去，时间过得真快。
+ Published Date: 2017-03-11
+ 搭建博客真辛苦😓 怎么说呢，一直想鼓捣一个Blog，这次真是牟足劲，终于整完了。
+这和我牟足劲，硬着头皮写（模仿？抄）了一个爬虫，真是异曲同工？
+这两者过程都有些ugly，但也算是对我的新晋人生信条：keep shipping 的实践了！
+搭博客的第二天 为Blog增加了favicon。
+依然没有很系统的理解hexo。
+不过，因为折腾Blog接触到了一些有意思的独立博客。</description>
+    </item>
     
     <item>
       <title>个人笔记系统的搭建</title>
